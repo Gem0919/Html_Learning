@@ -1,0 +1,30 @@
+●style:
+font-family     = text font
+font-size       = text size
+text-align      = text alignment
+background-image
+float:left      =float to the right or the left of a text
+     :right     
+
+
+
+
+<b>             =Bold text
+<strong>        =important
+<i>             =italic
+<em>            =emphasized text(little italic)
+<mark>          =marked text
+<del>           =delete(text under one line)
+<sub>           =subscript text
+<sup>           =superscript text
+<ins>           =underline
+<blockquote>    =section quoted from another source
+<q> </q>        =" "
+<abbr>          =abbreviation
+<address>       =information for author or owner
+<cite>          =a title of a work
+
+
+
+
+
